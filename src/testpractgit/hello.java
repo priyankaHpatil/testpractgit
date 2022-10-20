@@ -6,5 +6,6 @@ public static void main(String[] args) {
 	System.out.println("fjhgj");
 System.out.println("fjhgj");
 System.out.println("fjhgj");
+System.out.println("fjhgj");
 }
 }
